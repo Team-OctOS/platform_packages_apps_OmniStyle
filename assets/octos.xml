@@ -17,7 +17,9 @@
 
 <!-- hour_header must be sorted based on hour
 entry can only be only one of hour or day/month type
-day_header entries have a higher priority then hour entries -->
+day_header entries have a higher priority then hour entries
+
+**Special thanks to Customworx for the headers! https://plus.google.com/u/0/+FerdinandW ** -->
 
 <daylight_headers>
     <hour_header hour="6" image="octos_1" />
