@@ -17,13 +17,17 @@
 
 <!-- hour_header must be sorted based on hour
 entry can only be only one of hour or day/month type
-day_header entries have a higher priority then hour entries -->
+day_header entries have a higher priority then hour entries
+
+**Special thanks to Customworx for the headers! https://plus.google.com/u/0/+FerdinandW ** -->
 
 <daylight_headers>
-    <hour_header hour="6" image="octos_sunrise" />
-    <hour_header hour="9" image="octos_morning" />
-    <hour_header hour="11" image="octos_noon" />
-    <hour_header hour="13" image="octos_afternoon" />
-    <hour_header hour="19" image="octos_sunset" />
-    <hour_header hour="21" image="octos_night" />
+    <hour_header hour="6" image="tentacles_1" />
+    <hour_header hour="8" image="tentacles_2" />
+    <hour_header hour="10" image="tentacles_3" />
+    <hour_header hour="12" image="tentacles_4" />
+    <hour_header hour="14" image="tentacles_5" />
+    <hour_header hour="16" image="tentacles_6" />
+    <hour_header hour="18" image="tentacles_7" />
+    <hour_header hour="21" image="tentacles_8" />
 </daylight_headers>
